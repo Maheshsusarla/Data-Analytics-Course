@@ -20,3 +20,10 @@ Create charts, dashboards
 Data Analytics Workflow-
 Raw Data → Clean → Analyze → Visualize → Decision
 
+Types of Data Analytics:
+Descriptive :Descriptive analytics is used to understand what has already happened using historical data.
+Diagnostic :Diagnostic analytics is used to find the reason behind an event.
+Predictive :Predictive analytics uses data + machine learning to predict future outcomes.
+Prescriptive :Prescriptive analytics suggests what actions should be taken.
+
+
