@@ -1,0 +1,19 @@
+Data Types in Data Analytics:
+
+Numerical Data (Quantitative Data):Represents numbers that can be measured or calculated.
+Age = 25
+Salary = 50000
+Marks = 85.5
+
+Categorical Data (Qualitative Data):Represents labels or categories, not numbers.
+Gender = Male / Female
+City = Bangalore / Chennai
+Product = Laptop / Mobile
+
+Boolean Data:Data with only two values: True or False.
+Is Passed = True
+Is Active = False
+
+Date & Time Data:
+Order Date = 2026-05-06
+Login Time = 10:30 AM
